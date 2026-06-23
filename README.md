@@ -1,3 +1,5 @@
+Graphs 
+
 In this assignment, you will write a Python program that using an API to collect live data. With the live data, you will provide a brief summary of each data type, as well as basic statistical inference, and then generate three graphs.
 
 Steps
